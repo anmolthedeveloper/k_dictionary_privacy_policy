@@ -2,7 +2,7 @@
 
 _Last updated: {{05-11-2025}}_
 
-Thank you for using **{{k_dictionary}}** (the "App").
+Thank you for using **k_dictionary** (the "App").
 
 This Privacy Policy explains how our dictionary application handles user data.  
 We are committed to protecting your privacy and ensuring a safe experience.
@@ -75,8 +75,8 @@ Updates will be reflected by the **"Last updated"** date at the top of the docum
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-**Email:** {{anmolthedeveloper@gmail.com}}
+**Email:** anmolthedeveloper@gmail.com
 
 ---
 
-Thank you for using **{{APP_NAME}}** 🙏
+Thank you for using **k_dictionary** 🙏
