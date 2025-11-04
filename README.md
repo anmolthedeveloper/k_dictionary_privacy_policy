@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: {{05-11-2025}}_
+_Last updated: 05-11-2025_
 
 Thank you for using **k_dictionary** (the "App").
 
